@@ -95,5 +95,14 @@ Here, we run for all cultural agents. And the `sec7_fig6.py` further pick the lo
 
 # Citation
 
-If you find this repo useful, please cite: uploading ....
+If you find this repo useful, please cite: 
+
+```bibtex
+@article{xu2026beyond,
+  title={Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems},
+  author={Xu, Shaoyang and Zhang, Jingshen and Hoang, Long P and Li, Jinyuan and Zhang, Wenxuan},
+  journal={arXiv preprint arXiv:2606.05985},
+  year={2026}
+}
+```
 
